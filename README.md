@@ -1,19 +1,10 @@
-# habr
+# Пример вёрстки на Vue3 экрана игрока для платформы текстовых настольных онлайн игр
 
-## Project setup
-```
-npm install
-```
+Проект представляет собой пример пример вёрстки экрана с кастомными UI компонентами.
+ 
+## Использованный стек
+Vue3 + CSS + Canvas\
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[Посмотреть демо тут](https://novemberdi.github.io/demoRPGboard/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
